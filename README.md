@@ -58,9 +58,20 @@ Exercise
 
 ## Excel Function 4
 
-Introduction to in-built functions used for analysing calendar related information like
+Introduction to in-built functions used for extracting calendar related information from a given data. They include
 
 - YEAR, MONTH, DATE, TEXT, DAY, TODAY, DATEDIF, EDATE
+  
+Below are some syntaxes used
+~~~
+=MONTH(E8)
+=TEXT(E8,"mmmm")
+=DAY(E8)
+=TEXT(E8,"ddd")
+=IF(ISBLANK(F8),TODAY()-E8,F8-E8)
+=DATEDIF(E8,TODAY(),"M") _or_ =IF(ISBLANK(F9),DATEDIF(E9,TODAY(),"M")) _or_ =IF(ISBLANK(F10),DATEDIF(E10,TODAY(),"M"),DATEDIF(E10,F10,"M"))
+=EDATE(E8,12) _or_ =IF(ISBLANK(F10),EDATE(E10,12),EDATE(F10,0))
+~~~
 
 Exercise
 
