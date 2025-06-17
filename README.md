@@ -10,6 +10,8 @@ These functions are used for summarizing large data into specific values
 
 - SUM, AVERAGE, MIN, MAX, LARGE, SMALL, COUNT, COUNTA etc
 
+Exercise
+
 <img width="472" alt="image" src="https://github.com/user-attachments/assets/28b00954-31bc-4070-a8f9-ddda1c93d91e" />
 
 
@@ -17,6 +19,7 @@ Others include the use of summarization functions that are condition based like
 
 * AVERAGEIF, MAXIFS, COUNTIF, SUMIF etc
   
+Exercise
 
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/f1d5879e-8ae0-4e4b-96dd-0a3b044a051e" />
 
@@ -47,6 +50,8 @@ Exercise
 
 
 ## Excel Function 3 (Using IF Conditional Statement)
+
+Exercise
 
 <img width="486" alt="image" src="https://github.com/user-attachments/assets/b8a9c444-29a3-4991-8e21-154db6411bd6" />
 
